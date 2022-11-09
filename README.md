@@ -1,5 +1,7 @@
 # GUIDANCE DOCUMENTS
-[Nimble Synchronous Replication with Witness and Peer Persistence](./Nimble_Replication_Peer_Persistence.md)
+  1. [Nimble Synchronous Replication with Witness and Peer Persistence](./Nimble_Replication_Peer_Persistence.md)
+     > All active configuration guide for Nimble Storage
 
 # TOOLS
-[HPE Warranty Check Plugins](https://github.com/anggawisnu/usc_hpe-warranty-region-changer)
+  1. [HPE Warranty Check Plugins](https://github.com/anggawisnu/usc_hpe-warranty-region-changer)
+     > Userscript to add a button for easily change all country / region within [HPE Warranty Check website](https://support.hpe.com/hpsc/wc/public/home)
