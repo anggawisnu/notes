@@ -39,7 +39,7 @@ ln -s /path/to/new /var/lib/docker
 ls -al /var/lib/docker
 ```
 8. Start docker back up service docker start
-```
-systemctl start docker.service
-```
+  ```
+  systemctl start docker.service
+  ```
 9. Start your containers
