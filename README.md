@@ -1,5 +1,8 @@
 # GUIDANCE DOCUMENTS
-  1. [Nimble Synchronous Replication with Witness and Peer Persistence](./Nimble_Replication_Peer_Persistence.md)
+  1. [Docker Data File Migration](./docker_file_mig.md)
+     > The docker data file migration how-to
+     
+  2. [Nimble Synchronous Replication with Witness and Peer Persistence](./Nimble_Replication_Peer_Persistence.md)
      > All active configuration guide for Nimble Storage
 
 # TOOLS
